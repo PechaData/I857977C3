@@ -7,7 +7,7 @@
   "author": {
     "en": "DPO and Claude-3-5-sonnet-20241022"
   },
-  "imported": "2025-02-05T04:00:31.262064",
+  "imported": "2025-02-05T04:02:06.006930",
   "source": "https://docs.google.com/document/d/1jF7Xr63pCrPM-gmvGJPbKnGepNlehV0bDt8-HWMoQ0Y/edit?tab=t.0",
   "toolkit_version": "0.0.1",
   "parser": "DocxNumberListCommentaryParser",
@@ -18,7 +18,7 @@
     "commentary_alignments": [
       {
         "source": "IB42962D2/layers/B049/Tibetan_Segment-FD64.json",
-        "target": "I857977C3/layers/4696/Meaning_Segment-B7EB.json"
+        "target": "I857977C3/layers/58A6/Meaning_Segment-EC00.json"
       }
     ],
     "long_title": {
